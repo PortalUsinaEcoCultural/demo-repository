@@ -3,5 +3,14 @@
 ![Logo Passatempo Educativo](https://storage.googleapis.com/atados-v3/user-uploaded/images/62062463-d9c8-4b14-9399-e05aeed4491a.png)
 
 🎯 **Objetivo do Projeto**
+Este repositório contém o código-fonte e a documentação do projeto de desenvolvimento do novo site da Usina Eco-Cultural. 
+O objetivo principal deste projeto é ajudar a Usina Eco-Cultural a aumentar seu alcance, oferecendo uma plataforma que melhore a experiência dos usuários e ajude a captar novos apoiadores para a organização.
 
-Este projeto tem como objetivo principal transformar o site do **Passatempo Educativo**, modernizando sua interface, melhorando a experiência do usuário e ampliando a acessibilidade para que possamos ampliar nossas técnicas e conhecimentos de maneira mais efetiva. A nova plataforma será um ponto de conexão entre a comunidade, nossos projetos e todas as pessoas que desejam contribuir para um mundo melhor 🌍.
+🔍 **Visão Geral do Projeto**
+A Usina Eco-Cultural é uma organização que busca promover a cultura e a sustentabilidade. Para alcançar um público maior e aumentar o engajamento, nosso grupo está desenvolvendo um site com:
+
+**Navegação fácil:** Foco em uma interface intuitiva, que permita aos usuários encontrarem rapidamente as informações de que precisam.
+**Design minimalista:** Um layout limpo, moderno e visualmente agradável, que prioriza a clareza e a simplicidade.
+**Estrutura bem organizada:** Informações e imagens dispostas de forma lógica, facilitando a compreensão e acesso aos conteúdos.
+**Elementos interativos:** Funcionalidades que incentivem a interatividade e tornem o site mais dinâmico, criando uma experiência mais envolvente para o usuário.
+
