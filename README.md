@@ -13,6 +13,8 @@ A Usina Eco-Cultural é uma organização que busca promover a cultura e a suste
 
 **Navegação fácil:** Foco em uma interface intuitiva, que permita aos usuários encontrarem rapidamente as informações de que precisam.
 **Design minimalista:** Um layout limpo, moderno e visualmente agradável, que prioriza a clareza e a simplicidade.
+
 **Estrutura bem organizada:** Informações e imagens dispostas de forma lógica, facilitando a compreensão e acesso aos conteúdos.
+
 **Elementos interativos:** Funcionalidades que incentivem a interatividade e tornem o site mais dinâmico, criando uma experiência mais envolvente para o usuário.
 
