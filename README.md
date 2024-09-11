@@ -1,6 +1,4 @@
-# Site: Passatempo Educativo
-
-![Logo Passatempo Educativo](https://storage.googleapis.com/atados-v3/user-uploaded/images/62062463-d9c8-4b14-9399-e05aeed4491a.png)
+# Site: Portal Usina Eco-Cultural
 
 🎯 **Objetivo do Projeto**
 
